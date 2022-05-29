@@ -17,3 +17,4 @@
 
 # Summary
 ## Further Examination
+Additional queries on employees that have already retired may provide valuable insight on just how long these retirement age employees typically stay on. Also, a query on role specific retirement trends could help determine with greater accuracy where recruitment should focus.
